@@ -32,5 +32,3 @@
 
 // Add action filters.
 // add_action( 'agnosia_before_setup', 'agnosia_starter_kit_reset_options_defaults' );
-
-?>

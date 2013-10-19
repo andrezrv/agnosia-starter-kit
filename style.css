@@ -3,7 +3,7 @@ Theme Name:     Agnosia Child Theme Starter Kit
 Description:    Starter child theme for the Agnosia Theme Framework.
 Author:         Andr&eacute;s Villarreal
 Template:       agnosia                             
-Version:        Beta 1.0
+Version:        1.0 Beta 1
 */
 
 /**
@@ -13,6 +13,8 @@ Version:        Beta 1.0
  * This file should only handle required WordPress classes.
  * 
  * @package Agnosia_Starter_Kit
+ * 
+ * @author andrezrv
  */
 
 @import url("../agnosia/style.css");

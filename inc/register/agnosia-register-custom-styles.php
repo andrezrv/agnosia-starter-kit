@@ -27,7 +27,7 @@
  * 1) name your compilation folder like the slug of your custom style (i.e. 'starter-kit-styles');
  * 2) copy your compilation folder into the Bootstrap folder of your child theme (i.e. bootstrap/starter-kit-styles);
  * 3) set the parameter $custom_boostrap of agnosia_register_style() to true.
- * To customize Boostrap, we suggest to use @link http://fancyboot.designspebam.com/.
+ * To customize Boostrap, we suggest to use {@link http://fancyboot.designspebam.com/}.
  */
 /*function agnosia_starter_kit_load_styles() {
 	
@@ -41,5 +41,3 @@
 
 // Add action hooks.
 // add_action( 'agnosia_before_setup', 'agnosia_starter_kit_load_styles' );
-
-?>
