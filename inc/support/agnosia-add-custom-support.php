@@ -1,7 +1,7 @@
 <?php
 
 /**
- * NOTICE: This file is part of the Agnosia Starter Kit child theme for the Agnosia framework.
+ * NOTICE: This file is part of the Agnosia Starter Kit child theme for the Agnosia Theme Framework.
  * You can edit this file without altering the original Agnosia core.
  *
  * This file should only handle dynamic theme support for your child theme, based in previously added theme support features.
@@ -11,6 +11,6 @@
  * For further information, visit @link http://codex.wordpress.org/Function_Reference/add_action and @link http://codex.wordpress.org/Function_Reference/add_filter.
  * 
  * @package Agnosia_Starter_Kit
+ * 
+ * @author andrezrv
  */
-
-?>

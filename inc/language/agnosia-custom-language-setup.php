@@ -1,7 +1,7 @@
 <?php
 
 /**
- * NOTICE: This file is part of the Agnosia Starter Kit child theme for the Agnosia framework.
+ * NOTICE: This file is part of the Agnosia Starter Kit child theme for the Agnosia Theme Framework.
  * You can edit this file without altering the original Agnosia core.
  *
  * This file should only text domains for your child theme.
@@ -9,6 +9,6 @@
  * This file is empty by default. For an example about how it should work, see wp-content/themes/agnosia/inc/languages/agnosia-language-setup.php
  * 
  * @package Agnosia_Starter_Kit
+ * 
+ * @author andrezrv
  */
-
-?>
